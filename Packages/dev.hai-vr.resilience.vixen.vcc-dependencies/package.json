@@ -1,9 +1,9 @@
 {
   "name": "dev.hai-vr.resilience.vixen.vcc-dependencies",
-  "displayName": "Haï~ - VCC Dependencies for Vixen",
-  "version": "0.1.0",
+  "displayName": "Haï ~ Patreon - VCC Dependencies for Vixen",
+  "version": "0.1.1",
   "unity": "2019.4",
-  "description": "This package does not contain Vixen, only instructions on which dependencies to pull in VCC.",
+  "description": "This package does not contain Vixen, only instructions on which dependencies to pull in VCC https://docs.hai-vr.dev/docs/products/vixen",
   "vrchatVersion" : "2022.1.1",
   "author" : {
     "name" : "Haï~"
