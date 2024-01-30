@@ -1,7 +1,7 @@
 {
   "name": "dev.hai-vr.resilience.vixen.vcc-dependencies",
   "displayName": "Haï ~ Patreon - VCC Dependencies for Vixen",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "unity": "2019.4",
   "description": "This package does not contain Vixen, only instructions on which dependencies to pull in VCC https://docs.hai-vr.dev/docs/products/vixen",
   "vrchatVersion" : "2022.1.1",
@@ -12,7 +12,7 @@
     "dev.hai-vr.animator-as-code.v1": "~1.0.9911",
     "dev.hai-vr.animator-as-code.v1.vrchat": "~1.0.9911",
     "dev.hai-vr.animator-as-code.v1.modular-avatar": "~1.0.9911",
-    "nadena.dev.ndmf": "~1.2.2",
+    "nadena.dev.ndmf": ">=1.2.0 <1.4.0",
     "nadena.dev.modular-avatar": "~1.8.1"
   },
   "url" : "https://docs.hai-vr.dev/docs/products/vixen"
